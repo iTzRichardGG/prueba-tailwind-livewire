@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #FEFBEA;
+  }
+  
+  .no-scrollbar {
+    -ms-overflow-style: none;  
+    scrollbar-width: none; 
+  }
+  
+  .screen-height {
+    height: 100dvh;
+  }
