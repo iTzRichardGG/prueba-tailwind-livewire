@@ -6,11 +6,11 @@ body {
     background-color: #FEFBEA;
   }
   
-  .no-scrollbar {
+.no-scrollbar {
     -ms-overflow-style: none;  
     scrollbar-width: none; 
-  }
+}
   
-  .screen-height {
+.screen-height {
     height: 100dvh;
   }
